@@ -24,6 +24,9 @@ Remember, the purpose of this is to have fun!
 * [CASHOTA - Castles and Stately Homes on Air](https://www.facebook.com/groups/226154851899/)
 * [English Castles Awards](https://web.archive.org/web/20240620001507/https://englishcastlesawards.uk/)[^1]
 
+# Continents
+* [QRZ World Continents Award](https://www.qrz.com/awards/WCA/)
+
 # Countries (DXCC)
 * [DXCC](https://www.arrl.org/dxcc)
 * [WIA DX Awards](https://www.wia.org.au/members/wiadxawards/about/)
