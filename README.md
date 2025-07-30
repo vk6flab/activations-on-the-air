@@ -22,6 +22,7 @@ Remember, the purpose of this is to have fun!
 * [Castles On The Air - PA (Netherlands)](https://www.cotapa.org/)
 * [CASHOTA - Castles and Stately Homes on Air](https://www.facebook.com/groups/226154851899/)
 * [World Castles Award](https://wcagroup.org)
+* [English Castles Awards](https://web.archive.org/web/20240620001507/https://englishcastlesawards.uk/)[^1]
 
 # Countries (DXCC)
 * [DXCC](https://www.arrl.org/dxcc)
