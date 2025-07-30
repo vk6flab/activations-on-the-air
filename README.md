@@ -60,7 +60,7 @@ Remember, the purpose of this is to have fun!
 
 # Toilets
 * [TOTA - Toilets on the Air](https://totawatch.de/)
-* [TOTA - Rules during Hackers On Planet Earch 2025](https://hope-16.totawatch.de/rules/)
+* [TOTA - Rules during Hackers On Planet Earth 2025](https://hope-16.totawatch.de/rules/)
 
 # Walmart Parking Lots
 * [WMPLOTA](https://web.archive.org/web/20241205100016/https://www.wmplota.org/)[^1]
