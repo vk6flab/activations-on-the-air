@@ -50,6 +50,7 @@ Remember, the purpose of this is to have fun!
 * [Parks On The Air](https://parksontheair.com/)
 * [Active Parks On The Air](https://pota.app/)
 * [World Wide Flora &amp; Fauna](https://wwff.co/)
+* [World Wide Flora &amp; Fauna Spots](https://spots.wwff.co/spots)
 * [National Parks On The Air](https://www.arrl.org/NPOTA)[^1]
 * [World Wide Flora &amp; Fauna - USA](https://wwffkff.wordpress.com/)
 
