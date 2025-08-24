@@ -103,6 +103,7 @@ Remember, the purpose of this is to have fun!
 * [SOTA Results and Summits Database](https://www.sotadata.org.uk/)
 * [SOTA Global Map](https://www.sotamaps.org/)
 * [SOTA Online Resources List](https://www.sota.org.uk/Online-Resources)
+* [WOTA - Wainwrights on the Air](https://www.wota.org.uk/)
 * [HEMA - Humps Excluding Marilyns Award](http://www.hema.org.uk/)
 * [GMA - General Mountain Activity](https://www.cqgma.org/start.php)
 
