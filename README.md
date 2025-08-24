@@ -31,6 +31,13 @@ Remember, the purpose of this is to have fun!
 * [DXCC](https://www.arrl.org/dxcc)
 * [WIA DX Awards](https://www.wia.org.au/members/wiadxawards/about/)
 
+# Historical Sites
+* [Canadian Historical Sites On The Air](https://www.hsota.org/)
+
+# Inland Waterways
+* [British Inland Waterways on the Air](https://www.nharg.org.uk/biwota)
+* [British Inland Waterways on the Air - Awards](https://www.nharg.org.uk/content/biwota-awards)
+
 # Islands
 * [Islands On The Air](https://www.iota-world.org)
 * [Islands Of Australia](https://www.wia.org.au/members/wiadxawards/islandsofaustralia/)
@@ -41,6 +48,9 @@ Remember, the purpose of this is to have fun!
 # Lighthouses and Lightships
 * [International Lighthouse Lightship Weekend](https://illw.net/)
 * [World Lighthouse &amp; Lightship Weekend Organization](https://wllw.org/index.php/en/)
+
+# Mills
+* [Mills on the air](https://www.nharg.org.uk/content/about-mills-air-mota)
 
 # Museums
 * [International Museums Weekends](https://www.radio-amateur-events.org/IMW/)
