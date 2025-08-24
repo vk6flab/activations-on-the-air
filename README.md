@@ -72,6 +72,7 @@ Remember, the purpose of this is to have fun!
 * [SOTA Results and Summits Database](https://www.sotadata.org.uk/)
 * [SOTA Global Map](https://www.sotamaps.org/)
 * [SOTA Online Resources List](https://www.sota.org.uk/Online-Resources)
+* [WOTA - Wainwrights on the Air](https://www.wota.org.uk/)
 
 # Toilets
 * [TOTA - Toilets on the Air](https://totawatch.de/)
