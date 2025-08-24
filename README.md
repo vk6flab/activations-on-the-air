@@ -14,7 +14,7 @@ Remember, the purpose of this is to have fun!
 # Australian Shires
 * [VK Shires](https://parksnpeaks.org/showAward.php?award=SHIRES)
 
-#Australia/NZ General
+# Australia/NZ General
 * [Parks n Peaks](http://www.parksnpeaks.org/)
 
 # Beaches
