@@ -11,8 +11,10 @@ Remember, the purpose of this is to have fun!
 73 de Onno VK6FLAB
 
 ---
-# Australia (General)
+# Australian Shires
 * [VK Shires](https://parksnpeaks.org/showAward.php?award=SHIRES)
+
+#Australia/NZ General
 * [Parks n Peaks](http://www.parksnpeaks.org/)
 
 # Beaches
@@ -107,6 +109,10 @@ Remember, the purpose of this is to have fun!
 # Toilets
 * [TOTA - Toilets on the Air](https://totawatch.de/)
 * [TOTA - Rules during Hackers On Planet Earth 2025](https://hope-16.totawatch.de/rules/)
+
+# UK & Ireland Grid Squares
+* [Worked all Britain](https://wab.intermip.net/default.php)
+* [Worked all Ireland](https://www.irts.ie/cgi/st.cgi?wai)
 
 # Walmart Parking Lots
 * [WMPLOTA](https://web.archive.org/web/20241205100016/https://www.wmplota.org/)[^1]
