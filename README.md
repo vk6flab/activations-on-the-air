@@ -40,28 +40,6 @@ Remember, the purpose of this is to have fun!
 * [English Castles Awards](https://web.archive.org/web/20240620001507/https://englishcastlesawards.uk/)[^1]
 * [German COTA Group](https://www.cotagroup.org/cotagroup/cota-team/dl-wca/)
 
-# Continents
-* [QRZ World Continents Award](https://www.qrz.com/awards/WCA/)
-
-# Countries (DXCC)
-* [DXCC](https://www.arrl.org/dxcc)
-* [WIA DX Awards](https://www.wia.org.au/members/wiadxawards/about/)
-
-# Countries Regions
-
-## Australia
-* [VK Shires](https://parksnpeaks.org/showAward.php?award=SHIRES)[^2]
-
-## New Zealand
-* [ZLOTA: New Zealand On the Air](https://parksnpeaks.org/showAward.php?award=ZLOTA)
-
-## UK &amp; Ireland Grid Squares
-* [Worked all Britain](https://wab.intermip.net/default.php)
-* [Worked all Ireland](https://www.irts.ie/cgi/st.cgi?wai)
-
-# Grids
-* [Grids on the Air](https://gridsontheair.com/)
-
 # Historical Sites
 * [HSOTA: Canadian Historical Sites On The Air](https://www.hsota.org/)
 
@@ -79,6 +57,28 @@ Remember, the purpose of this is to have fun!
 # Lighthouses and Lightships
 * [ILLW: International Lighthouse Lightship Weekend](https://illw.net/)
 * [World Lighthouse &amp; Lightship Weekend Organization](https://wllw.org/index.php/en/)
+
+# Locations
+
+## Continents
+* [QRZ World Continents Award](https://www.qrz.com/awards/WCA/)
+
+## Countries (DXCC)
+* [DXCC](https://www.arrl.org/dxcc)
+* [WIA DX Awards](https://www.wia.org.au/members/wiadxawards/about/)
+
+### Australia
+* [VK Shires](https://parksnpeaks.org/showAward.php?award=SHIRES)[^2]
+
+### New Zealand
+* [ZLOTA: New Zealand On the Air](https://parksnpeaks.org/showAward.php?award=ZLOTA)
+
+### UK &amp; Ireland Grid Squares
+* [Worked all Britain](https://wab.intermip.net/default.php)
+* [Worked all Ireland](https://www.irts.ie/cgi/st.cgi?wai)
+
+## Grids
+* [Grids on the Air](https://gridsontheair.com/)
 
 # Mills
 * [MOTA: Mills on the air](https://www.nharg.org.uk/content/about-mills-air-mota)
