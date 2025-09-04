@@ -101,6 +101,9 @@ Remember, the purpose of this is to have fun!
 # Silos
 * [SiOTA: Silos on the Air](https://parksnpeaks.org/showAward.php?award=SiOTA)
 
+# Skills and Methods
+* [ROTA: Relay On The Air](https://github.com/sixsixseven/rota)
+
 # Summits
 * [Wikipedia - Summits On The Air](https://en.wikipedia.org/wiki/Summits_On_The_Air)
 * [SOTA: Summits On The Air](https://www.sota.org.uk/)
