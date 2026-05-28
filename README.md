@@ -33,6 +33,9 @@ Remember, the purpose of this is to have fun!
 * [Z3BOTA: North Macedonia Bunkers on the Air](https://wwbota.org/z3bota/)
 * [ZABOTA: Albanian Bunkers on the Air](https://wwbota.org/zabota/)
 
+# Cats
+* [CPOTA: Cat Pix On The Air](https://cpota.app/)
+
 # Castles
 * [WCA: World Castles Award](https://wcagroup.org)
 * [COTAPA: Castles On The Air - PA (Netherlands)](https://www.cotapa.org/)
@@ -50,6 +53,9 @@ Remember, the purpose of this is to have fun!
 # Islands
 * [IOTA: Islands On The Air](https://www.iota-world.org)
 * [Islands Of Australia](https://www.wia.org.au/members/wiadxawards/islandsofaustralia/)
+
+# Lakes and Lagoons
+* [LLOTA: Lakes And Lagoons On The Air](https://llota.app/)
 
 # Libraries
 * [LiOTA: Libraries On The Air](https://k4fmh.com/2023/07/05/liota-libraries-on-the-air/)
@@ -79,6 +85,7 @@ Remember, the purpose of this is to have fun!
 
 ## Grids
 * [Grids on the Air](https://gridsontheair.com/)
+* [Tiles On The Air](https://tilesontheair.com/)
 
 # Mills
 * [MOTA: Mills on the air](https://www.nharg.org.uk/content/about-mills-air-mota)
