@@ -15,7 +15,7 @@ Remember, the purpose of this is to have fun!
 * [Beaches On The Air](https://www.beachesontheair.com)
 
 # Bunkers
-* [Worldwide Bunkers on the Air](https://wwbota.org/)
+* [WWBOTA: Worldwide Bunkers on the Air](https://wwbota.org/)
 
 ## Per Country
 * [DLBOTA: German Bunkers on the Air](https://dlbota.de/)
@@ -102,7 +102,7 @@ Remember, the purpose of this is to have fun!
 * [WWFF: World Wide Flora &amp; Fauna - USA](https://wwffkff.wordpress.com/)
 * [NPOTA: National Parks On The Air](https://www.arrl.org/NPOTA)[^1]
 * [Keith Roget Memorial National Parks Award](https://groups.io/g/krmnpa)
-* [VK5 National & Conservation Parks Award](https://parksnpeaks.org/showAward.php?award=SANPCPA)
+* [South Australia National & Conservation Parks Award](https://parksnpeaks.org/showAward.php?award=SANPCPA)
 * [Parks n Peaks](http://www.parksnpeaks.org/)
 
 # Silos
@@ -125,11 +125,11 @@ Remember, the purpose of this is to have fun!
 
 # Toilets
 * [TOTA: Toilets on the Air](https://totawatch.de/)
-* [TOTA: Rules during Hackers On Planet Earth 2025](https://hope-16.totawatch.de/rules/)
+  * [TOTA: Rules during Hackers On Planet Earth 2025](https://hope-16.totawatch.de/rules/)
 
 # Walmart Parking Lots
 * [WMPLOTA](https://web.archive.org/web/20241205100016/https://www.wmplota.org/)[^1]
-* [Original Co-Organiser](https://www.adamwhitney.net)
+  * [Original Co-Organiser](https://www.adamwhitney.net)
 
 ---
 
@@ -144,56 +144,37 @@ Note that some of the entries below might not constitute an "On The Air" activit
 * [APRSOTA: Automatic Packet Reporting System on the Air](https://aprsota.org/)
 * [LLOTA: Lakes and Lagoons On The Air]
 * [TOTA: Tiles On The Air]
-* GMA Islands
+
+* Aeronautical Mobile
+* Amateur Satellite
 * Contests
 * DXpeditions
-* Aeronautical Mobile
-* Maritime Mobile
 * EME/Moonbounce
-* Amateur Satellite
+* GMA Islands
+* Maritime Mobile
+* [PARC: Protected Areas Radio Community]
 * QRP, Parks on the Air (POTA)
-* Summits on the Air (SOTA)
-* Worldwide Flora & Fauna (WWFF)
-* Global Mountain Activity (GMA)
-* Worldwide Bunkers on the Air (WWBOTA)
-* HuMPs Excluding Marilyns Award (HEMA)
-* Islands on the Air (IOTA)
-* Mills on the Air (MOTA)
-* the Amateur Radio Lighthouse Society (ARLHS)
-* International Lighthouse Lightship Weekend (ILLW)
-* Silos on the Air (SIOTA)
-* World Castles Award (WCA)
-* Beaches on the Air (BOTA)
-* Towers on the Air
-* Protected Areas Radio Community (PARC)
 * RaDAR Rally
 * Railways on the Air
-* Toilets on the Air.
+* [ARLHS: the Amateur Radio Lighthouse Society]
+* Towers on the Air
 
 
 ## Regional
 
 The unsorted entries below might be local, or they might be global. To Be Determined.
 
-* New Zealand on the Air (ZLOTA)
-* Keith Roget Memorial National Parks Award (KRMNPA)
-* South Australia National Parks and Conservation Parks Award (SANPCPA)
-* Diploma Castillos de España (DCE)
-* Worked All Britain (WAB)
-* Diploma Municipios de España (DME)
-* Diploma Teatri Musei e Belle Arti (DTMBA)
-* Castles on the Air (COTA)
-* Wainwrights on the Air (WOTA)
-* Worked All Ireland (WAI)
-* Diploma Faros de España (FEA)
-* British Inland Waterways on the Air (BIWOTA)
-* Polish Gmina Award (PGA)
-* Diploma Muesos de España (DMUE)
-* Diploma Monumentos y Vestigios de España (DMVE)
-* Diploma Estaciones de Ferrocarril de España (DEFE)
-* Diplôme des Moulins de France (DMF)
-* Lagos y Lagunas On the Air (LLOTA)
-
+* [COTA: Castles on the Air]
+* [DCE: Diploma Castillos de España]
+* [DEFE: Diploma Estaciones de Ferrocarril de España]
+* [FEA: Diploma Faros de España]
+* [DMVE: Diploma Monumentos y Vestigios de España]
+* [DMUE: Diploma Muesos de España]
+* [DME: Diploma Municipios de España]
+* [DTMBA: Diploma Teatri Musei e Belle Arti]
+* [DMF: Diplôme des Moulins de France]
+* [LLOTA: Lagos y Lagunas On the Air]
+* [PGA: Polish Gmina Award]
 
 
 ---
