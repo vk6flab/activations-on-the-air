@@ -63,6 +63,7 @@ Remember, the purpose of this is to have fun!
 # Lighthouses and Lightships
 * [ILLW: International Lighthouse Lightship Weekend](https://illw.net/)
 * [World Lighthouse &amp; Lightship Weekend Organization](https://wllw.org/index.php/en/)
+* [ARLHS: the Amateur Radio Lighthouse Society](https://arlhs.com/)
 
 # Locations
 
@@ -104,12 +105,14 @@ Remember, the purpose of this is to have fun!
 * [Keith Roget Memorial National Parks Award](https://groups.io/g/krmnpa)
 * [South Australia National & Conservation Parks Award](https://parksnpeaks.org/showAward.php?award=SANPCPA)
 * [Parks n Peaks](http://www.parksnpeaks.org/)
+* [PARC: Protected Areas Radio Community](https://parc-community.com/)
 
 # Silos
 * [SiOTA: Silos on the Air](https://parksnpeaks.org/showAward.php?award=SiOTA)
 
 # Skills and Methods
 * [ROTA: Relay On The Air](https://github.com/sixsixseven/rota)
+* [RaDAR Rally](https://www.radarrally.info/)
 
 # Summits
 * [Wikipedia - Summits On The Air](https://en.wikipedia.org/wiki/Summits_On_The_Air)
@@ -121,7 +124,11 @@ Remember, the purpose of this is to have fun!
 * [SOTA: Online Resources List](https://www.sota.org.uk/Online-Resources)
 * [WOTA: Wainwrights on the Air](https://www.wota.org.uk/)
 * [HEMA: Humps Excluding Marilyns Award](http://www.hema.org.uk/)
-* [GMA: General Mountain Activity](https://www.cqgma.org/start.php)
+* [GMA: Global Mountain Activity](https://www.cqgma.org/start.php)
+
+# Towers
+
+* [Towers on the Air](https://www.rozhledny.eu/)
 
 # Toilets
 * [TOTA: Toilets on the Air](https://totawatch.de/)
@@ -142,39 +149,57 @@ Mostly sourced from [Mastodon](https://mastodon.radio) and [Spothole](https://sp
 Note that some of the entries below might not constitute an "On The Air" activity, but might be included in the full list above at some point.
 
 * [APRSOTA: Automatic Packet Reporting System on the Air](https://aprsota.org/)
-* [LLOTA: Lakes and Lagoons On The Air]
-* [TOTA: Tiles On The Air]
-
 * Aeronautical Mobile
 * Amateur Satellite
 * Contests
 * DXpeditions
 * EME/Moonbounce
-* GMA Islands
+* [GMA Islands](https://www.gma.rocks/infawd15.php) - not sure of the status of this one. Hard to find info on
 * Maritime Mobile
-* [PARC: Protected Areas Radio Community]
-* QRP, Parks on the Air (POTA)
-* RaDAR Rally
-* Railways on the Air
-* [ARLHS: the Amateur Radio Lighthouse Society]
-* Towers on the Air
+* QRP
+* [Railways on the Air](https://rota.barac.org.uk/)
+* [Churches and Chapels on the Air](https://wacral.org/chota/)
+* [Pubs & Clubs on the Air](https://pubsandclubsontheair.wordpress.com/)[^1]
 
 
 ## Regional
 
 The unsorted entries below might be local, or they might be global. To Be Determined.
 
-* [COTA: Castles on the Air]
-* [DCE: Diploma Castillos de España]
-* [DEFE: Diploma Estaciones de Ferrocarril de España]
-* [FEA: Diploma Faros de España]
-* [DMVE: Diploma Monumentos y Vestigios de España]
-* [DMUE: Diploma Muesos de España]
-* [DME: Diploma Municipios de España]
-* [DTMBA: Diploma Teatri Musei e Belle Arti]
-* [DMF: Diplôme des Moulins de France]
-* [LLOTA: Lagos y Lagunas On the Air]
-* [PGA: Polish Gmina Award]
+### Germany
+
+* [COTA: Castles on the Air](https://www.cotagroup.org/cotagroup/cota-diplom/cota-castles-on-the-air/)
+
+### Spain
+
+* [DCE: Diploma Castillos de España](https://acracb.org/dce/)
+* [DEFE: Diploma Estaciones de Ferrocarril de España](https://acracb.org/defe/)
+* [FEA: Diploma Faros de España](http://www.ea5ol.net/fea.htm)
+* [DMVE: Diploma Monumentos y Vestigios de España](https://www.acracb.org/dmve/)
+* [DMUE: Diploma Museos de España](https://dmue.radiogalena.es/)
+* [DME: Diploma Municipios de España](https://diplomas.ure.es/diplomas/dme/bases/)
+
+### Italy
+
+* [DTMBA: Diploma Teatri Musei e Belle Arti](https://www.iz0eik.net/dtmba-diploma-teatri-musei-belle-arti/)
+* [DCI: Diploma Castelli Italiani](https://dci.diplomaradio.it/)
+* [GRA: Gruppo Radioamatori Alpini](https://g-r-a.jimdofree.com/)
+* [DRES: Diploma Radio e Storia](https://www.mountainqrp.it/awards/award/?diploma=DRES)
+* [WAIL: Worked All Italian Lighthouses](https://www.arigenova.it/wail.html)
+* [DAI: Diploma de Abbazie Italiane](https://www.aribusto.it/dai_page.htm)
+
+### France
+
+* [DMF: Diplôme des Moulins de France](https://dmf.r-e-f.org/index.php?option=com_content&view=article&id=2&Itemid=101)
+* [DCPF: Diplômes des Colombiers et Pigeonniers de France](https://dcpf.73s.fr/)
+
+### Poland
+
+* [PGA: Polish Gmina Award](https://pga-zawody.pzk.pl/lista.php)
+
+### Russia
+
+* [RDA: Russian Districts Award](https://rdaward.ru/indexe.php?p=rda_top)
 
 
 ---
