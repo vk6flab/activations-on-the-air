@@ -129,7 +129,72 @@ Remember, the purpose of this is to have fun!
 
 # Walmart Parking Lots
 * [WMPLOTA](https://web.archive.org/web/20241205100016/https://www.wmplota.org/)[^1]
-* [Origignal Co-Organiser](https://www.adamwhitney.net)
+* [Original Co-Organiser](https://www.adamwhitney.net)
+
+---
+
+# Unsorted
+
+The entries below are new to the list. They are incomplete and may contain duplicates or entries that are already on the list above.
+
+Mostly sourced from [Mastodon](https://mastodon.radio) and [Spothole](https://spothole.app).
+
+Note that some of the entries below might not constitute an "On The Air" activity, but might be included in the full list above at some point.
+
+* [APRSOTA: Automatic Packet Reporting System on the Air](https://aprsota.org/)
+* [LLOTA: Lakes and Lagoons On The Air]
+* [TOTA: Tiles On The Air]
+* GMA Islands
+* Contests
+* DXpeditions
+* Aeronautical Mobile
+* Maritime Mobile
+* EME/Moonbounce
+* Amateur Satellite
+* QRP, Parks on the Air (POTA)
+* Summits on the Air (SOTA)
+* Worldwide Flora & Fauna (WWFF)
+* Global Mountain Activity (GMA)
+* Worldwide Bunkers on the Air (WWBOTA)
+* HuMPs Excluding Marilyns Award (HEMA)
+* Islands on the Air (IOTA)
+* Mills on the Air (MOTA)
+* the Amateur Radio Lighthouse Society (ARLHS)
+* International Lighthouse Lightship Weekend (ILLW)
+* Silos on the Air (SIOTA)
+* World Castles Award (WCA)
+* Beaches on the Air (BOTA)
+* Towers on the Air
+* Protected Areas Radio Community (PARC)
+* RaDAR Rally
+* Railways on the Air
+* Toilets on the Air.
+
+
+## Regional
+
+The unsorted entries below might be local, or they might be global. To Be Determined.
+
+* New Zealand on the Air (ZLOTA)
+* Keith Roget Memorial National Parks Award (KRMNPA)
+* South Australia National Parks and Conservation Parks Award (SANPCPA)
+* Diploma Castillos de España (DCE)
+* Worked All Britain (WAB)
+* Diploma Municipios de España (DME)
+* Diploma Teatri Musei e Belle Arti (DTMBA)
+* Castles on the Air (COTA)
+* Wainwrights on the Air (WOTA)
+* Worked All Ireland (WAI)
+* Diploma Faros de España (FEA)
+* British Inland Waterways on the Air (BIWOTA)
+* Polish Gmina Award (PGA)
+* Diploma Muesos de España (DMUE)
+* Diploma Monumentos y Vestigios de España (DMVE)
+* Diploma Estaciones de Ferrocarril de España (DEFE)
+* Diplôme des Moulins de France (DMF)
+* Lagos y Lagunas On the Air (LLOTA)
+
+
 
 ---
 
