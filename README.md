@@ -95,12 +95,12 @@ Remember, the purpose of this is to have fun!
 * [IMW: International Museums Weekends](https://www.radio-amateur-events.org/IMW/)
 
 # Parks
-* [Wikipedia - Parks On The Air](https://en.wikipedia.org/wiki/Parks_On_The_Air)
 * [POTA: Parks On The Air](https://parksontheair.com/)
-* [POTA: Active Parks On The Air](https://pota.app/)
+  * [Wikipedia - Parks On The Air](https://en.wikipedia.org/wiki/Parks_On_The_Air)
+  * [POTA: Active Parks On The Air](https://pota.app/)
 * [WWFF: World Wide Flora &amp; Fauna](https://wwff.co/)
-* [WWFF: World Wide Flora &amp; Fauna Spots](https://spots.wwff.co/spots)
-* [WWFF: World Wide Flora &amp; Fauna - USA](https://wwffkff.wordpress.com/)
+  * [WWFF: World Wide Flora &amp; Fauna Spots](https://spots.wwff.co/spots)
+  * [WWFF: World Wide Flora &amp; Fauna - USA](https://wwffkff.wordpress.com/)
 * [NPOTA: National Parks On The Air](https://www.arrl.org/NPOTA)[^1]
 * [Keith Roget Memorial National Parks Award](https://groups.io/g/krmnpa)
 * [South Australia National & Conservation Parks Award](https://parksnpeaks.org/showAward.php?award=SANPCPA)
@@ -115,24 +115,23 @@ Remember, the purpose of this is to have fun!
 * [RaDAR Rally](https://www.radarrally.info/)
 
 # Summits
-* [Wikipedia - Summits On The Air](https://en.wikipedia.org/wiki/Summits_On_The_Air)
 * [SOTA: Summits On The Air](https://www.sota.org.uk/)
-* [RSGB - Getting started with SOTA](https://rsgb.org/main/beyond-exams-building-experience/logbook-explorer-getting-started/rsgb-logbook-explorer-summits-on-the-air/)
-* [Summerland Amateur Radio Club - List of Local Summits](https://sarc.org.au/sota/)
-* [SOTA: Results and Summits Database](https://www.sotadata.org.uk/)
-* [SOTA: Global Map](https://www.sotamaps.org/)
-* [SOTA: Online Resources List](https://www.sota.org.uk/Online-Resources)
+  * [Wikipedia - Summits On The Air](https://en.wikipedia.org/wiki/Summits_On_The_Air)
+  * [RSGB - Getting started with SOTA](https://rsgb.org/main/beyond-exams-building-experience/logbook-explorer-getting-started/rsgb-logbook-explorer-summits-on-the-air/)
+  * [Summerland Amateur Radio Club - List of Local Summits](https://sarc.org.au/sota/)
+  * [SOTA: Results and Summits Database](https://www.sotadata.org.uk/)
+  * [SOTA: Global Map](https://www.sotamaps.org/)
+  * [SOTA: Online Resources List](https://www.sota.org.uk/Online-Resources)
 * [WOTA: Wainwrights on the Air](https://www.wota.org.uk/)
 * [HEMA: Humps Excluding Marilyns Award](http://www.hema.org.uk/)
-* [GMA: Global Mountain Activity](https://www.cqgma.org/start.php)
-
-# Towers
-
-* [Towers on the Air](https://www.rozhledny.eu/)
+* [GMA: Global Mountain Activity](https://www.gma.rocks/)
 
 # Toilets
 * [TOTA: Toilets on the Air](https://totawatch.de/)
   * [TOTA: Rules during Hackers On Planet Earth 2025](https://hope-16.totawatch.de/rules/)
+
+# Towers
+* [Towers on the Air](https://www.rozhledny.eu/)
 
 # Walmart Parking Lots
 * [WMPLOTA](https://web.archive.org/web/20241205100016/https://www.wmplota.org/)[^1]
@@ -163,24 +162,16 @@ Note that some of the entries below might not constitute an "On The Air" activit
 
 
 ## Regional
-
 The unsorted entries below might be local, or they might be global. To Be Determined.
 
-### Germany
+### France
+* [DMF: Diplôme des Moulins de France](https://dmf.r-e-f.org/index.php?option=com_content&view=article&id=2&Itemid=101)
+* [DCPF: Diplômes des Colombiers et Pigeonniers de France](https://dcpf.73s.fr/)
 
+### Germany
 * [COTA: Castles on the Air](https://www.cotagroup.org/cotagroup/cota-diplom/cota-castles-on-the-air/)
 
-### Spain
-
-* [DCE: Diploma Castillos de España](https://acracb.org/dce/)
-* [DEFE: Diploma Estaciones de Ferrocarril de España](https://acracb.org/defe/)
-* [FEA: Diploma Faros de España](http://www.ea5ol.net/fea.htm)
-* [DMVE: Diploma Monumentos y Vestigios de España](https://www.acracb.org/dmve/)
-* [DMUE: Diploma Museos de España](https://dmue.radiogalena.es/)
-* [DME: Diploma Municipios de España](https://diplomas.ure.es/diplomas/dme/bases/)
-
 ### Italy
-
 * [DTMBA: Diploma Teatri Musei e Belle Arti](https://www.iz0eik.net/dtmba-diploma-teatri-musei-belle-arti/)
 * [DCI: Diploma Castelli Italiani](https://dci.diplomaradio.it/)
 * [GRA: Gruppo Radioamatori Alpini](https://g-r-a.jimdofree.com/)
@@ -188,19 +179,19 @@ The unsorted entries below might be local, or they might be global. To Be Determ
 * [WAIL: Worked All Italian Lighthouses](https://www.arigenova.it/wail.html)
 * [DAI: Diploma de Abbazie Italiane](https://www.aribusto.it/dai_page.htm)
 
-### France
-
-* [DMF: Diplôme des Moulins de France](https://dmf.r-e-f.org/index.php?option=com_content&view=article&id=2&Itemid=101)
-* [DCPF: Diplômes des Colombiers et Pigeonniers de France](https://dcpf.73s.fr/)
-
 ### Poland
-
 * [PGA: Polish Gmina Award](https://pga-zawody.pzk.pl/lista.php)
 
 ### Russia
-
 * [RDA: Russian Districts Award](https://rdaward.ru/indexe.php?p=rda_top)
 
+### Spain
+* [DCE: Diploma Castillos de España](https://acracb.org/dce/)
+* [DEFE: Diploma Estaciones de Ferrocarril de España](https://acracb.org/defe/)
+* [FEA: Diploma Faros de España](http://www.ea5ol.net/fea.htm)
+* [DMVE: Diploma Monumentos y Vestigios de España](https://www.acracb.org/dmve/)
+* [DMUE: Diploma Museos de España](https://dmue.radiogalena.es/)
+* [DME: Diploma Municipios de España](https://diplomas.ure.es/diplomas/dme/bases/)
 
 ---
 
