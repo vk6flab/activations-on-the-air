@@ -45,6 +45,7 @@ Remember, the purpose of this is to have fun!
 
 # Historical Sites
 * [HSOTA: Canadian Historical Sites On The Air](https://www.hsota.org/)
+* [HOTA: History on the Air](https://cqhota.app)
 
 # Inland Waterways
 * [BIWOTA: British Inland Waterways on the Air](https://www.nharg.org.uk/biwota)
@@ -132,6 +133,9 @@ Remember, the purpose of this is to have fun!
 
 # Towers
 * [Towers on the Air](https://www.rozhledny.eu/)
+
+# Towns
+* [PPOTA: Pueblos y Parajes on the Air](https://ppota.app)
 
 # Walmart Parking Lots
 * [WMPLOTA](https://web.archive.org/web/20241205100016/https://www.wmplota.org/)[^1]
