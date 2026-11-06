@@ -163,17 +163,48 @@ Note that some of the entries below might not constitute an "On The Air" activit
 * [Railways on the Air](https://rota.barac.org.uk/)
 * [Churches and Chapels on the Air](https://wacral.org/chota/)
 * [Pubs & Clubs on the Air](https://pubsandclubsontheair.wordpress.com/)[^1]
+* [RaDAR Rally](http://www.radarrally.info/)
+* [WLOTA: World Lighthouses on the Air](https://www.wlota.com/)
+* [WAP: Worldwide Antarctic Program](https://www.waponline.it/)
 
 
 ## Regional
 The unsorted entries below might be local, or they might be global. To Be Determined.
 
+### Belgium
+* [BCA: Belgian Castles and Fortresses](https://belgiumoutdoorshack.be/bca/index.html)
+* [BELMOTA: Belgian Mills on the Air](https://belgiumoutdoorshack.be/belmota/index.html)
+* [BLHA: Belgian Lighthouses and Lightships Award](https://belgiumoutdoorshack.be/blha/index.html)
+* [IWI: Inlandse Water Islands](https://i-w-i--inlands-islands-belgium3.webnode.be/)
+
+### Brazil
+* [DIB: Diploma Ilhas Brasileiras](http://www.labre-sp.org.br/diversos.php?xid=8)
+* [DFB: Diploma Faróis Brasileiros](http://www.labre-sp.org.br/diversos.php?xid=8)
+* [DFH: Diploma Fortificações Históricas Brasileiras](http://www.labre-sp.org.br/diversos.php?xid=8)
+
+### Canada
+* [CIA: Canadian Island Activating](https://veislandactivators.blogspot.com/)
+
+### Croatia
+* [IOCA: Islands of Croatia Award](https://ioca.hamradio.hr/)
+
+### Denmark
+* [DIA: Danish Island Award](https://www.ddxg.dk/awards/island.htm)
+
 ### France
 * [DMF: Diplôme des Moulins de France](https://dmf.r-e-f.org/index.php?option=com_content&view=article&id=2&Itemid=101)
 * [DCPF: Diplômes des Colombiers et Pigeonniers de France](https://dcpf.73s.fr/)
+* [DFCF: Diplôme des Forts et Châteaux de France](https://www.dfcf.fr/)
+* [DVFF: Diplôme des Voies Ferrées de France](https://diplomes.73s.fr/)
+* [DFF: Diplôme des Fontaines de France](http://diplomes.73s.fr/dff-reglement/)
+* [WAO: World Astronomical Observatory](http://diplomes.73s.fr/wao-reglement/)
+* [WLA: World Lac Awards](http://diplomes.73s.fr/wla-liste-des-references/)
+* [WVA: World Volcano Award](http://diplomes.73s.fr/wvz-reglement/)
+* [WZP: World Zoos and Parks](http://diplomes.73s.fr/wzp-reglement/)
 
 ### Germany
 * [COTA: Castles on the Air](https://www.cotagroup.org/cotagroup/cota-diplom/cota-castles-on-the-air/)
+* [DOK: DARC Local Association Codes](https://www.darc.de/en/der-club/referate/committee-dx/diplome/doks-of-darc/)
 
 ### Italy
 * [DTMBA: Diploma Teatri Musei e Belle Arti](https://www.iz0eik.net/dtmba-diploma-teatri-musei-belle-arti/)
@@ -182,12 +213,25 @@ The unsorted entries below might be local, or they might be global. To Be Determ
 * [DRES: Diploma Radio e Storia](https://www.mountainqrp.it/awards/award/?diploma=DRES)
 * [WAIL: Worked All Italian Lighthouses](https://www.arigenova.it/wail.html)
 * [DAI: Diploma de Abbazie Italiane](https://www.aribusto.it/dai_page.htm)
+* [DRI: Diploma Rifugi Italiani](https://www.mountainqrp.it/awards/award/?diploma=DRI)
+* [DVI: Diploma Valichi Italiani](https://www.mountainqrp.it/awards/award/?diploma=DVI)
+* [WXM: Watt x Miglio](https://www.mountainqrp.it/awards/award/?diploma=WXM)
+* [IIA: Italian Islands Award](https://iia.ari.it/)
+
+### Japan
+* [JCC & JCG: Japan Century Cities & Japan Century Guns](https://www.jarl.org/English/4_Library/A-4-5_jcc-jcg/jcc-jcg.htm)
 
 ### Poland
 * [PGA: Polish Gmina Award](https://pga-zawody.pzk.pl/lista.php)
 
+### Portugal
+* [PFFP: Placa Faróis e Farolins de Portugal](https://oeste-dx-gang-association.webnode.pt/p-f-f-p-list-references2/)
+* [PIP: Portuguese Islands Plaque](https://oeste-dx-gang-association.webnode.pt/listagem-de-referencias-p-i-p/)
+
 ### Russia
 * [RDA: Russian Districts Award](https://rdaward.ru/indexe.php?p=rda_top)
+* [RRA: Russian Robinson Award](http://rraward.ru/)
+* [SPI: Saint Petersburg Islands](https://spbislands.ru/index_en.php)
 
 ### Spain
 * [DCE: Diploma Castillos de España](https://acracb.org/dce/)
@@ -196,6 +240,13 @@ The unsorted entries below might be local, or they might be global. To Be Determ
 * [DMVE: Diploma Monumentos y Vestigios de España](https://www.acracb.org/dmve/)
 * [DMUE: Diploma Museos de España](https://dmue.radiogalena.es/)
 * [DME: Diploma Municipios de España](https://diplomas.ure.es/diplomas/dme/bases/)
+* [DVGE: Diploma Vértices Geodésicos de España](https://www.radioclubhenares.org/dvge/)
+* [DIE & DIEI: Diploma Islas Españolas & Diploma Islas Españolas de Interior](https://www.ea1urv.es/web/diploma-islas-espanolas/)
+* [DERESP: Diploma Edificios Románicos de España](https://www.deresp.es/index_2.html)
+* [VCAN: Diploma Volcanes de Canarias](https://www.urvag.com/recursos/vcan_osm.php)
+
+### USA
+* [USI: US Islands Awards Program](https://usislands.org/)
 
 ---
 
